@@ -1,0 +1,12 @@
+-- Inserir usuários de exemplo
+INSERT INTO usuarios (nome, email, telefone, endereco) VALUES
+('João Silva', 'joao@email.com', '(11) 9999-8888', 'Rua A, 123 - São Paulo'),
+('Maria Santos', 'maria@email.com', '(11) 9777-6666', 'Av. B, 456 - São Paulo'),
+('Pedro Oliveira', 'pedro@email.com', '(11) 9555-4444', 'Rua C, 789 - São Paulo');
+
+-- Inserir produtos de exemplo
+INSERT INTO produtos (nome, descricao, preco, categoria) VALUES
+('Pizza Margherita', 'Molho de tomate, mussarela e manjericão', 45.90, 'Pizza'),
+('Hambúrguer Artesanal', 'Pão brioche, carne 180g, queijo e bacon', 32.50, 'Lanches'),
+('Refrigerante', 'Lata 350ml - Coca-Cola, Guaraná ou Fanta', 8.00, 'Bebidas'),
+('Batata Frita', 'Porção média com ketchup', 15.00, 'Acompanhamentos');
