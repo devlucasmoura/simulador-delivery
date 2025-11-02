@@ -47,9 +47,10 @@ Sistema de simulação de pedidos para aplicativo de entrega de comida.
 ## 📁 Arquivos do Projeto
 - `simulador_pedidos.php` - Sistema principal
 - `style.css` - Estilos da interface
-- `banco_dados.txt` - Script do banco (executar no MySQL)
+- `banco_dados.txt` - Script do banco
 - `README.md` - Instruções de uso
 
 ## 👨‍💻 Autor
 
 Lucas Moura, Patrick, Pedro, Maria
+
