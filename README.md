@@ -2,7 +2,7 @@
 
 Sistema de simulação de pedidos para aplicativo de entrega de comida.
 
-## 🚀 Como usar
+##  Como usar
 
 ### 1. Configurar o Banco de Dados
 
@@ -37,20 +37,21 @@ Sistema de simulação de pedidos para aplicativo de entrega de comida.
 
 ### 3. Usar o Sistema
 
-- **🚀 Iniciar Simulação**: Cria pedidos automáticos
-- **📋 Listar Pedidos**: Mostra todos os pedidos
-- **🗑️ Limpar Resultados**: Limpa a tela
+- ** Iniciar Simulação**: Cria pedidos automáticos
+- ** Listar Pedidos**: Mostra todos os pedidos
+- ** Limpar Resultados**: Limpa a tela
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - PHP, MySQL, HTML, CSS
 
-## 📁 Arquivos do Projeto
+##  Arquivos do Projeto
 - `simulador_pedidos.php` - Sistema principal
 - `style.css` - Estilos da interface
 - `banco_dados.txt` - Script do banco
 - `README.md` - Instruções de uso
 
-## 👨‍💻 Autor
+## Autor
 
 Lucas Moura, Patrick, Pedro, Maria
+
 
